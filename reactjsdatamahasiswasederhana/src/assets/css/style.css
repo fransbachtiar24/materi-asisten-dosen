@@ -1,0 +1,11 @@
+.lur {
+  background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+.raw {
+  background: #6c63ff;
+}
+
+.yui:hover {
+  background: #2f2e41;
+  color: #ffffff;
+}
