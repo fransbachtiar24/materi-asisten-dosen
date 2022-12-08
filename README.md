@@ -9,12 +9,12 @@
 
 | Method | Endpoint     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `POST`      | `https://fransbchtr-api.vercel.app/auth/v1/register` | **Required**. sebelum untuk login harus register agar bisa login |
-| `POST`      | `https://fransbchtr-api.vercel.app/auth/v1/login` | **Required**. sebelum untuk masuk halaman utama harus login agar bisa mengakses data mahasiswa |
-| `GET`      | `https://fransbchtr-api.vercel.app/mahasiswa` | **Required**. Untuk Mengakses semua data mahasiswa |
-| `GET`      | `https://fransbchtr-api.vercel.app/mahasiswa/{mahasiswaId}` | **Required**. Untuk Mengakses data mahasiswa sesuai keinginan kita/berdasarkan id  |
-| `PUT`      | `https://fransbchtr-api.vercel.app/mahasiswa/{mahasiswaId}` | **Required**. Ambil Id mahasiswa terlebih dahulu untuk mengubah datanya  |
-| `Delete`      | `https://fransbchtr-api.vercel.app/mahasiswa/{mahasiswaId}` | **Required**. Menghapus Data Mahasiswa Sesuai Keinginan Kita  |
+| `POST`      | `https://fransbchtr-api-sederhana.vercel.app/auth/v1/register` | **Required**. sebelum untuk login harus register agar bisa login |
+| `POST`      | `https://fransbchtr-api-sederhana.vercel.app/auth/v1/login` | **Required**. sebelum untuk masuk halaman utama harus login agar bisa mengakses data mahasiswa |
+| `GET`      | `https://fransbchtr-api-sederhana.vercel.app/mahasiswa` | **Required**. Untuk Mengakses semua data mahasiswa |
+| `GET`      | `https://fransbchtr-api-sederhana.vercel.app/mahasiswa/{mahasiswaId}` | **Required**. Untuk Mengakses data mahasiswa sesuai keinginan kita/berdasarkan id  |
+| `PUT`      | `https://fransbchtr-api-sederhana.vercel.app/mahasiswa/{mahasiswaId}` | **Required**. Ambil Id mahasiswa terlebih dahulu untuk mengubah datanya  |
+| `Delete`      | `https://fransbchtr-api-sederhana.vercel.app/mahasiswa/{mahasiswaId}` | **Required**. Menghapus Data Mahasiswa Sesuai Keinginan Kita  |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransbachtiar24&label=Profile%20views&color=0e75b6&style=flat" alt="fransbachtiar24" /> </p>
 
